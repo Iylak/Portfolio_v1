@@ -1,11 +1,11 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avatar.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import {FaEnvelope, FaLinkedinIn} from "react-icons/fa";
 
 function Home2() {
   return (
@@ -17,7 +17,7 @@ function Home2() {
               COME GET TO KNOW <span className="purple"> A LITTLE </span> ABOUT ME
             </h1>
             <p className="home-about-body">
-              Hi ! It' Jeni, your favorite coding buddy 👾
+              Hi ! It's Jeni, your favorite coding buddy 👾
               <br />
               <br />What do I code in ?
               <i>
@@ -27,10 +27,10 @@ function Home2() {
               <br />
               What are my interests ? &nbsp;
               <i>
-                <b className="purple">Working with LLM, GenAI to build agents </b> AND
+                <b className="purple">Working with LLM, GenAI </b> AND
                 I also love{" "}
                 <b className="purple">
-                  cloud infrastructure and media tech !
+                  cloud infrastructure and big data !
                 </b>
               </i>
               <br />
@@ -49,7 +49,7 @@ function Home2() {
               </i>
             </p>
           </Col>
-          <Col md={4} className="myAvtar">
+          <Col md={3} className="myAvtar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />
             </Tilt>
@@ -80,6 +80,16 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                    href="https://mail.google.com/mail/?view=cm&to=wang109@gmail.com"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="icon-colour  home-social-icons"
+                >
+                    <FaEnvelope/>
                 </a>
               </li>
             </ul>
