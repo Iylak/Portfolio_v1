@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_v1/static/css/main.29149b34.css",
-    "main.js": "/Portfolio_v1/static/js/main.56f5bfe7.js",
+    "main.js": "/Portfolio_v1/static/js/main.021a4089.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio_v1/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio_v1/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/Portfolio_v1/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -13,17 +13,17 @@
     "static/media/about.png": "/Portfolio_v1/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/avatar.png": "/Portfolio_v1/static/media/avatar.078ce03c5f26189a39c2.png",
     "static/media/chatify.png": "/Portfolio_v1/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/Jie(Jeni) Wang - Resume.pdf": "/Portfolio_v1/static/media/Jie(Jeni) Wang - Resume.97166444547126e8765d.pdf",
+    "static/media/Jeni_Wang_s_Resume.pdf": "/Portfolio_v1/static/media/Jeni_Wang_s_Resume.7e7251ad3e05b11a2f78.pdf",
     "static/media/home-bg.jpg": "/Portfolio_v1/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/Portfolio_v1/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Portfolio_v1/index.html",
     "main.29149b34.css.map": "/Portfolio_v1/static/css/main.29149b34.css.map",
-    "main.56f5bfe7.js.map": "/Portfolio_v1/static/js/main.56f5bfe7.js.map",
+    "main.021a4089.js.map": "/Portfolio_v1/static/js/main.021a4089.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio_v1/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio_v1/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29149b34.css",
-    "static/js/main.56f5bfe7.js"
+    "static/js/main.021a4089.js"
   ]
 }
